@@ -1,0 +1,6 @@
+{
+  "name": "Toán Tiểu Học Thông Minh - Gia Sư AI",
+  "description": "Ứng dụng ôn tập môn Toán dành cho học sinh Lớp 1-5 theo chuẩn Bộ GD&ĐT Việt Nam: tùy chọn bài học, 5 mức độ nhận thức, 5-30 câu hỏi, Gia sư AI giảng giải chi tiết, Giấy khen vinh danh và thống kê điểm số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
